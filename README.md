@@ -1,6 +1,10 @@
 # js-conf-china
 
-### Code examples - codesandbox.io
+### Slides
+
+[From REST to GraphQL (Chinese)](./js-conf-china-cn.pdf)
+
+### React frontend HN clones - codesandbox.io
 
 [HN REST API React clone](https://codesandbox.io/s/mQOG4L3R9)
 
