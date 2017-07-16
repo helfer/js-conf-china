@@ -1,5 +1,7 @@
 # js-conf-china
 
+Slides and links to the code from my talk at [JS-Conf China 2017](http://2017.jsconf.cn/) in Shanghai.
+
 ### Slides
 
 [From REST to GraphQL (Chinese)](./jonas-js-conf-china-cn.pdf)
