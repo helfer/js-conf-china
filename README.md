@@ -2,7 +2,7 @@
 
 ### Slides
 
-[From REST to GraphQL (Chinese)](./js-conf-china-cn.pdf)
+[From REST to GraphQL (Chinese)](./jonas-js-conf-china-cn.pdf)
 
 ### React frontend HN clones - codesandbox.io
 
